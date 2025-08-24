@@ -5,7 +5,7 @@ const querystring = require('querystring');
 
 // Configuration
 const PORT = process.env.PORT || 3000; // Can be changed via environment variable
-const GEMINI_API_KEY = 'AIzaSyDghtFrfHAg39p6P0yuwJLEbKVYzqlFXhU'; // Replace with your actual API key
+const GEMINI_API_KEY = 'AIzaSyDghtFrfHAg39p6P0yuwJLEbKVYzqlFXhU'; // Replace with your actual Gemini API key
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 // CORS headers
@@ -390,4 +390,5 @@ process.on('SIGINT', () => {
         console.log('Server closed');
         process.exit(0);
     });
+
 });
