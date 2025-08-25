@@ -8,7 +8,8 @@
 
 An intelligent web application that parses resume files and provides personalized improvement suggestions using Google's Gemini AI. Built with vanilla JavaScript and Node.js for simplicity and performance.
 
-![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Resume+Parser+Demo)
+![Demo Screenshot](<img width="1908" height="1011" alt="image" src="https://github.com/user-attachments/assets/0c21f65d-1f2b-4482-9e7f-8745b5df8460" />
+)
 
 ## ✨ Features
 
