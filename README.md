@@ -6,7 +6,7 @@
 
 > **Transform your resume with AI-powered analysis and professional suggestions**
 
-An intelligent web application that parses resume files and provides personalized improvement suggestions using Google's Gemini AI. Built with vanilla JavaScript and Node.js for simplicity and performance.
+An intelligent web application that parses resume files and provides personalized improvement suggestions using Google's Gemini AI. Built with HTML, CSS, JavaScript and Node.js for simplicity and performance.
 
 ## Demo Screenshot
 <img width="1908" height="1011" alt="image" src="https://github.com/user-attachments/assets/d4e81bbf-7441-4c03-aec4-9cabddfaf633" />
