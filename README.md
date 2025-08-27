@@ -78,16 +78,12 @@ An intelligent web application that parses resume files and provides personalize
 
 ## 🏗️ Project Structure
 
-ai-resume-parser/
-├── index.html          # Frontend interface
-|
-├── styles.css          # Modern UI styling
-|
-├── server.js           # Backend API server
-|
-├── README.md          # This file
-|
-└── package.json       # Dependencies (optional)
+ai-resume-parser/                                   
+├── index.html             # Frontend interface            
+├── styles.css             # Modern UI styling                    
+├── server.js              # Backend API server                          
+├── README.md              # This file                         
+└── package.json           # Dependencies (optional)                       
 
 ## 🔧 Configuration
 
