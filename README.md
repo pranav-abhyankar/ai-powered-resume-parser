@@ -39,10 +39,10 @@ An intelligent web application that parses resume files and provides personalize
 ### Installation
 
 1. **Clone the repository**
-  git clone https://github.com/pranav-abhyankar/ai-powered-resume-parser.git
+  git clone https://github.com/pranav-abhyankar/ai-powered-resume-parser.git          
   cd ai-powered-resume-parser
 
-2. **Configure your API key**
+3. **Configure your API key**
   # Open server.js and replace the API key
   const GEMINI_API_KEY = 'your_actual_gemini_api_key_here';
 
@@ -133,6 +133,7 @@ GEMINI_API_KEY=your_api_key_here
 - **Drag & Drop**: Intuitive file upload experience
 - **Error Handling**: User-friendly error messages
 
+
 ## 🔍 How It Works
 
 1. **File Upload**: User selects/drops a resume file
@@ -141,11 +142,14 @@ GEMINI_API_KEY=your_api_key_here
 4. **AI Analysis**: Gemini AI analyzes content and generates suggestions
 5. **Results Display**: Parsed content and suggestions shown to user
 
+
+
 ## 🚧 Troubleshooting
 
 ### Common Issues
 
 **Server won't start on port 3000:**
+
 # Check if port is in use
 lsof -ti:3000 | xargs kill  # Mac/Linux
 netstat -ano | findstr :3000  # Windows
