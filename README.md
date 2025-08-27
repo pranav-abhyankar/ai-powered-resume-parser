@@ -172,6 +172,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [Google Gemini AI](https://ai.google.dev/) for powering the intelligent suggestions
-- [Unsplash](https://unsplash.com/) for beautiful placeholder images
 - The open-source community for inspiration and best practices
 
